@@ -1,0 +1,160 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    transition: all 0.3s;
+}
+
+body {
+    font-family: Museo Sans Cyrl, sans-serif;
+    font-weight: 400;
+    background: #f7f7f7;
+}
+
+.counter {
+    position: absolute;
+    right: 13px;
+    top: 0;
+    color: #fff;
+    background: #2196f3;
+    font-size: 10px;
+    font-weight: 600;
+    width: 16px;
+    border-radius: 100%;
+}
+.counter-1 {
+    font-size: 16px;
+    font-weight: bold;
+    width: 16px;
+}
+
+.cart {
+    position: absolute;
+    right: 0;
+    top: 110%;
+    z-index: 100;
+    width: 400px;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.28); 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.28);
+}
+
+
+select:active, select:focus{
+    border: none;
+}
+
+.search-but {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-70%);
+}
+
+.phone {
+    width: 15.5%;
+}
+
+.singleBlock {
+    width: 15.5%;
+}
+
+.carousel-indicators {
+    background: rgba(0,0,0,.5);
+    width: fit-content;
+    margin: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 10px;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+.carousel-indicators button {
+    width: 4px !important;
+    height: 4px !important;
+    border-radius: 100%;
+    margin-left: 2px !important;
+    margin-right: 2px !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+.carousel-indicators button.active {
+    width: 10px !important;
+    border-radius: 3px;
+    box-shadow: 1px 1px 2px rgb(0 0 0 / 90%);
+}
+
+.carousel-control-prev, 
+.carousel-control-next {
+    height: fit-content;
+    width: fit-content;
+    color: #000;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #fff;
+    padding: 0.8rem;
+    border-radius: 100%;
+    opacity: 0;
+}
+
+.carousel:hover .carousel-control-next,
+.carousel:hover .carousel-control-prev {
+    opacity: 1;
+}
+
+.carousel-control-prev {
+    left: 1rem;
+}
+
+.carousel-control-next {
+    right: 1rem;
+}
+
+.phone:hover {
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.28); 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.28);
+}
+
+.discount {
+    position: absolute;
+    left: 3%;
+    top: 3%;
+}
+
+.review {
+    box-shadow: 0 1px 8px rgb(0 0 0 / 10%);
+    padding: 16px;
+    margin: 24px 0;
+    border-radius: 8px;
+}
+
+.small-images{
+    width: 50px;
+    height: 50px;
+}
+.small-images-2{
+    width: 20px;
+    height: 20px;
+}
+.small-images-2 i{
+    color: #737171;
+}
+.all-cat{
+    height: 440px;
+    overflow-x: scroll;
+}
+
+
+@media (min-width: 1536px) {
+    .container {
+        max-width: 1232px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .container {
+        max-width: 1232px;
+    }
+}

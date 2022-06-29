@@ -1,0 +1,163 @@
+{
+  "catalog": [{
+      "id": 1,
+      "category": "phones",
+      "name": "Смартфон Apple iPhone 11 128GB Black",
+      "article": "228942",
+      "images": [{
+        "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F228942_2.jpg&w=828&q=85",
+        "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F228942_1.jpg&w=828&q=85",
+        "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F228942_3.jpg&w=1920&q=85"
+      }],
+      "year": "2019",
+      "discount": 10,
+      "diagonal": "6.1",
+      "resolution": "828x1792",
+      "ram": "4",
+      "memory": "128",
+      "price": 404990,
+      "website": "https://www.apple.com/iphone-11/specs/",
+      "review": [{
+          "name": "Наталья",
+          "date": "02.08.2021",
+          "text": "работает без нареканий",
+          "stars": 5,
+          "likes": 1,
+          "dislikes": 0
+        },
+        {
+          "name": "Aigerim",
+          "date": "16.07.2021",
+          "text": "Все отлично, спасибо, технодом",
+          "stars": 5,
+          "likes": 0,
+          "dislikes": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "phones",
+      "name": "Смартфон Apple iPhone SE 2022 128GB Midnight",
+      "article": "258965",
+      "website": "https://www.apple.com/iphone-11/specs/",
+      "images": [{
+        "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F258965_1.jpg&w=828&q=85",
+        "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F258965_2.jpg&w=828&q=85",
+        "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F258965_3.jpg&w=1920&q=85",
+        "fourth": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F258965_4.jpg&w=1920&q=85",
+        "fifth": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F258965_5.jpg&w=1920&q=85"
+      }],
+      "year": "2022",
+      "discount": null,
+      "diagonal": "4.7",
+      "resolution": "750x1334",
+      "ram": "4",
+      "memory": "128",
+      "price": 339990
+    },
+    {
+      "id": 3,
+      "category": "",
+      "name": "Игровой ноутбук Lenovo Legion 7 i9 11980HK / 32ГБ / 2000SSD / RTX3080 16ГБ / 16 / Win10 / (82K6006ARK)",
+      "article": "255703",
+      "images": [{
+        "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F255703_1.jpg&w=828&q=85",
+        "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F255703_4.jpg&w=1920&q=85",
+        "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F255703_6.jpg&w=1920&q=85",
+        "fourth": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F255703_7.jpg&w=1920&q=85",
+        "fifth": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F255703_11.jpg&w=1920&q=85"
+      }],
+      "year": "2021",
+      "discount": 8,
+      "diagonal": "4.7",
+      "resolution": "2560x1600 WQXGA",
+      "ram": "32ГБ",
+      "memory": "2000",
+      "price": 1999990,
+      "website": "https://www.lenovo.com/sg/en/laptops/legion/legion-7-series/Legion-7-16ITH6/p/82K6CTO1WWENSG1"
+    }
+  ],
+  "users": [{
+      "id": 1,
+      "phone": "87472367503",
+      "name": "Олжас",
+      "surname": "Алидаров",
+      "bonuses": 100,
+      "email": "oljasalidarov@gmail.com",
+      "pass": "123"
+    },
+    {
+      "id": 2,
+      "phone": "87326712389",
+      "name": "Олжас",
+      "surname": "Алидаров",
+      "bonuses": 50,
+      "email": "alidar@gmail.com",
+      "pass": "qwerty"
+    },
+    {
+      "id": 3,
+      "phone": "87471234678",
+      "name": "Олжас",
+      "surname": "Алидаров",
+      "bonuses": 20,
+      "email": "alidarov@gmail.com",
+      "pass": "123"
+    },
+    {
+      "id": 4,
+      "phone": "87472367503",
+      "name": "Олжас",
+      "surname": "Алидаров",
+      "bonuses": 10000,
+      "email": "qwerty@gmail.com",
+      "pass": "qwerty"
+    },
+    {
+      "name": "Мансур",
+      "surname": "Елкин",
+      "email": "mansur@gmail.com",
+      "phone": "721389412",
+      "bonuses": 0,
+      "pass": "qwerty",
+      "id": 5
+    },
+    {
+      "name": "Даулет",
+      "surname": "Дуйсен",
+      "email": "daulet@gmail.com",
+      "phone": "81267489172",
+      "pass": "123",
+      "bonuses": 0,
+      "id": 6
+    },
+    {
+      "name": "Олжас",
+      "surname": "Алидаров",
+      "email": "oljasalidarov@gmail.com",
+      "phone": "7312893",
+      "pass": "123",
+      "bonuses": 0,
+      "id": 7
+    },
+    {
+      "name": "oljas",
+      "surname": "alidarov",
+      "email": "oljasalidarov@gmail.com",
+      "phone": "9378219",
+      "pass": "qwerty",
+      "bonuses": 0,
+      "id": 8
+    },
+    {
+      "name": "qwerty",
+      "surname": "qwerty",
+      "email": "qwerty@",
+      "phone": "123",
+      "pass": "123",
+      "bonuses": 0,
+      "id": 9
+    }
+  ]
+}
